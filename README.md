@@ -14,7 +14,7 @@ You can create a single shortcut by calling the script with arguments, or create
 ## Parameters
 ### When using a JSON file
 #### DeploymentType (string)
-Set to 'Install' or 'Uninstall'
+Set to `Install` or `Uninstall`
 #### Config (string)
 The name of the JSON file, located in the same folder as the script. The value can be:
 - The name of the JSON file in the same folder as the script, e.g. `MyShortcuts.json`
