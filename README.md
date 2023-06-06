@@ -23,7 +23,7 @@ The name of the JSON file, located in the same folder as the script. The value c
 
 ### When using the script arguments
 #### DeploymentType (string)
-Set to 'Install' or 'Uninstall'
+Set to `Install` or `Uninstall`
 #### DisplayName (string)
 The name shown for the shortcut
 #### Url (string)
