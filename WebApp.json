@@ -1,0 +1,20 @@
+{
+    "WebApps": [
+        {
+            "DisplayName": "GitHub",
+            "Url": "https://github.com",
+            "IconUrl": "github.ico",
+            "InStartMenu": true,
+            "OnDesktop": false,
+            "InStartup": false
+        },
+        {
+            "DisplayName": "Microsoft",
+            "Url": "https://https://www.microsoft.com",
+            "IconUrl": "https://www.microsoft.com/favicon.ico",
+            "InStartMenu": false,
+            "OnDesktop": true,
+            "InStartup": false
+        }
+    ]
+}
