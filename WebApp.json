@@ -10,7 +10,7 @@
         },
         {
             "DisplayName": "Microsoft",
-            "Url": "https://https://www.microsoft.com",
+            "Url": "https://www.microsoft.com",
             "IconUrl": "https://www.microsoft.com/favicon.ico",
             "InStartMenu": false,
             "OnDesktop": true,
